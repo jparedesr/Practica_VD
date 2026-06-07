@@ -4,7 +4,7 @@
 # Asignatura: Proyecto de Visualización de Datos (Máster en Ingeniería Informática)
 # Centro: Universitat Oberta de Catalunya (UOC)
 # Fecha: Junio 2026
-# Licencia: MIT License (Garantiza código abierto y reproducibilidad científica)
+# Licencia: MIT License
 # ==============================================================================
 
 # ==============================================================================
